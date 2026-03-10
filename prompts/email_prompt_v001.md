@@ -43,7 +43,7 @@ Writing rules:
 
 If information is missing:
 - infer reasonably
-- if sender name unknown use "000 드림"
+- if sender name unknown use "000 올림"
 
 Return ONLY the corrected email.
 Do not include explanations.
