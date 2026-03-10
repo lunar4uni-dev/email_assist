@@ -69,35 +69,15 @@ Python 3.9 or higher
 
 ### API Key
 
-Gemini API Key from Google AI Studio.
+Gemini API Key from [Google AI Studio]("https://aistudio.google.com/").
 
 ## Installation
 
-1. Clone the repository:
-   ```
-   git clone https://github.com/lunar4uni-dev/email-modifier.git
-   cd email-modifier
-   ```
+Install dependencies (recommended in venv):
+```
+pip install -r requirements.txt
+```
 
-2. Create a virtual environment (recommended):
-   ```
-   python -m venv venv
-   ```
-
-3. Activate the environment:
-   - **Windows**:
-     ```
-     venv\Scripts\activate
-     ```
-   - **macOS or Linux**:
-     ```
-     source venv/bin/activate
-     ```
-
-4. Install dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
 
 ## Configuration
 
