@@ -1,3 +1,10 @@
+# python env and gradio related files
 .venv
 .gradio
 css_styles
+
+# pyinstaller to build exe
+build
+Email Modifier.spec
+Madooro.ico
+Madooro.icns
